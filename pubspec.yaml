@@ -1,0 +1,25 @@
+name: glib
+description: Rapid Development Framework for Flutter inspired by https://www.glideapps.com.
+version: 0.0.1
+homepage: https://github.com/kisszoltan/glib
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=2.2.3"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  expandable: ^5.0.1
+  material_floating_search_bar: ^0.3.4
+  provider: ^6.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
